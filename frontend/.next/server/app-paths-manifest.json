@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/i/tasks/page": "app/i/tasks/page.js",
+  "/i/time-blocking/page": "app/i/time-blocking/page.js",
+  "/i/timer/page": "app/i/timer/page.js",
+  "/i/page": "app/i/page.js",
+  "/i/settings/page": "app/i/settings/page.js"
+}
